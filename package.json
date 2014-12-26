@@ -1,0 +1,25 @@
+{
+  "name": "eg-chatroom",
+  "version": "0.0.0",
+  "description": "angular chatroom factory for web socket integration, and controller",
+  "main": "eg-chatroom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/braungoodson/eg-chatroom"
+  },
+  "keywords": [
+    "angular",
+    "modules",
+    "sockets",
+    "chatroom"
+  ],
+  "author": "Braun Goodson <braungoodson@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/braungoodson/eg-chatroom/issues"
+  },
+  "homepage": "https://github.com/braungoodson/eg-chatroom"
+}
